@@ -1,8 +1,9 @@
+@feature2
 Feature: Report test feature 2
 
   As a user, i need to test the reports using scenario files.
 
-  @test3 @pack:smoke
+  @test3 @smoke
   Scenario Outline: Scenario with outline1
     Given User is testing the report
     Then print "<number>"
@@ -21,7 +22,7 @@ Feature: Report test feature 2
       | edfc   |
       | test   |
 
-  @test5 @test4
+  @test5 @regression
   Scenario Outline: Scenario with outline2
     Given User is testing the report
     Then print "<number>"
