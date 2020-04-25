@@ -11,10 +11,10 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>2.2.1</serenity.version>
-        <serenity.maven.version>2.2.1</serenity.maven.version>
-        <serenity.cucumber.version>2.2.0</serenity.cucumber.version>
-        <cucumber.version>5.5.0</cucumber.version>
+        <serenity.version>2.2.2</serenity.version>
+        <serenity.maven.version>2.2.2</serenity.maven.version>
+        <serenity.cucumber.version>2.2.2</serenity.cucumber.version>
+        <cucumber.version>5.6.0</cucumber.version>
         <encoding>UTF-8</encoding>
         <tags></tags>
         <parallel.tests>4</parallel.tests>
