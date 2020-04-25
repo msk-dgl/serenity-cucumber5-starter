@@ -14,6 +14,6 @@ Feature: Report test feature 1
     Then print "two"
 
   @test3
-  Scenario: Scenario without outline2
+  Scenario: Scenario without outline3
     Given User is testing the report
     Then print "three"
